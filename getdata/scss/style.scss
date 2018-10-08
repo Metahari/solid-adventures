@@ -1,0 +1,29 @@
+body{
+  background-color:gray;
+}
+.nestedData{
+  background-color:#9E9E9E;
+  margin-left:20px;
+}
+#photo img{
+  width:200px;
+  height:200px;
+  float:right;
+}
+#sites{
+  width:400px;
+  display:block;
+  font-size:20px;
+  line-height:22px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-align:left;
+}
+#sites a{
+
+}
+#sites a::before{
+  content:"";
+}
+#sites a::after{
+}
