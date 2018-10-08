@@ -1,0 +1,11 @@
+{
+    "owners": ["https://metahari.solid.community/profile#me"],
+    "title": "Over Yonder",
+    "tagline": "Sailing along",
+    "picture": "img/logo.svg",
+    "fadeText": true,
+    "showSources": true,
+    "cacheUnit": "days",
+    "defaultPath": "posts",
+    "postsURL": "https://account.databox.me/Public/blog/posts/"
+}
