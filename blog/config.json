@@ -1,5 +1,5 @@
 {
-    "owners": ["https://metahari.solid.community/profile#me"],
+    "owners": ["https://metahari.solid.community/profile/card#me"],
     "title": "Over Yonder",
     "tagline": "Sailing along",
     "picture": "img/logo.svg",
@@ -7,5 +7,5 @@
     "showSources": true,
     "cacheUnit": "days",
     "defaultPath": "posts",
-    "postsURL": "https://account.databox.me/Public/blog/posts/"
+    "postsURL": "posts/"
 }
